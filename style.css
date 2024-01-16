@@ -71,6 +71,9 @@ a:hover {
 .logo-link{
     color: white;
 }
+.logo-link:hover{
+    text-decoration: none;
+}
 
 .logo:hover {
   cursor: default;
@@ -157,7 +160,9 @@ a:hover {
 }
 
 /* SECTIONS */
-
+.profile-pic {
+    border-radius: 50%;
+}
 section {
   padding-top: 4vh;
   height: 55vh;
