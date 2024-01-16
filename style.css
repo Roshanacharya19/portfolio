@@ -40,7 +40,9 @@ nav {
   padding-left: 4%;
   padding-right: 4%;
 }
-
+.footer-nav {
+    justify-content: space-around !important;
+}
 .nav-links {
   gap: 2rem;
   list-style: none;
