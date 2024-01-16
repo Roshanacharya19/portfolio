@@ -34,9 +34,11 @@ nav,
 }
 
 nav {
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   height: 17vh;
+  padding-left: 4%;
+  padding-right: 4%;
 }
 
 .nav-links {
@@ -296,6 +298,7 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
+  padding-top: 25px;
 }
 
 .about-pic {
